@@ -10,6 +10,8 @@ Relatório de Salários - C
 
 const double salario_min = 1518.00;
 
+/* ---------------- DECLRAÇÃO DAS FUNÇÕES --------------------*/
+
 void lersalarios(double salarios[], int num_funcionarios);
 void exibirmenu();
 void exibir_relatorio(double lista_salarios[], int num_funcionarios);
@@ -24,7 +26,7 @@ int main(){
     system("cls");
 
     printf("Digite o numero de funcionarios : ");
-    scanf("%d", &funcionarios); // CORREÇÃO 1: Era "$d"
+    scanf("%d", &funcionarios);
 
     double salarios[funcionarios];
 
@@ -33,7 +35,7 @@ int main(){
     while (1) {
         exibirmenu();
         printf("\nQual opcao voce escolhe : ");
-        scanf("%d", &opcao); // CORREÇÃO 2: Faltava o '&'
+        scanf("%d", &opcao); 
 
         if (opcao == 1){
             exibir_relatorio(salarios, funcionarios);
@@ -86,7 +88,7 @@ void exibir_relatorio(double lista_salarios[], int num_funcionarios){
     int salarios_acima = 0;
     printf("\nSALARIOS : ");
     for(int i = 0; i < num_funcionarios; i++){
-        printf("R$%.2f  /  ", lista_salarios[i]); // CORREÇÃO 3: Era "%2.f" e faltava espaço
+        printf("R$%.2f  /  ", lista_salarios[i]); 
         
         if(lista_salarios[i] > salario_min){
             salarios_acima++;
@@ -100,11 +102,11 @@ void reajuste(double lista_salarios[], int num_funcionarios){
         lista_salarios[i] *= 1.10;
     }
 
-    printf("\nAJUSTE DE 10 PORCENTO APLICADOS NOS SALARIOS.\n"); // Adicionei um \n no início
+    printf("\nAJUSTE DE 10 PORCENTO APLICADOS NOS SALARIOS.\n"); 
     printf("\nSALARIOS ATUAIS : ");
     
     for(int i = 0; i < num_funcionarios; i++){
-        printf("R$%.2f  /  ", lista_salarios[i]); // CORREÇÃO 4: Faltava espaço
+        printf("R$%.2f  /  ", lista_salarios[i]); 
     }
 
     printf("\n");

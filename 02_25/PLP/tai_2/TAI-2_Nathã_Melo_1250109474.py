@@ -1,6 +1,6 @@
 # Trabalho Avaliativo Individual 2 
 # Aluno : Nathã Melo
-# Relatório de Salários - Python
+# Relatório de Salários - Python (USADO COMO BASE PARA OS CÓDIGOS EM C E JAVA)
 
 # importação de bibliotecas
 import os # Importa função para limpar terminal
