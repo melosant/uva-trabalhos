@@ -3,7 +3,7 @@ Laboratório de Práticas
 Matéria : Bases de Programação
 Data : 05.11.2025
 
-Cálculo salário líquido
+Programa 4: Cálculo salário líquido
 Prática Teste de Mesa
 */
 

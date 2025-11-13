@@ -3,7 +3,7 @@ Laboratório de Práticas
 Matéria : Bases de Programação
 Data : 05.11.2025
 
-Operador condicional ternário
+Programa 5: Operador condicional ternário
 */
 
 #include <stdio.h>
