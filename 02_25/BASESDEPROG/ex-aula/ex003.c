@@ -1,7 +1,7 @@
 /* 
 laboratório de Práticas
 Matéria : Bases de Programação
-Data : 29.11.25
+Data : 29.10.25
 
 Programa 3: Cadastro de pessoas (nome, idade, sexo e altura)
 Ao final, imprimir somente nome e altura

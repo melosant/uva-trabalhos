@@ -1,7 +1,7 @@
 /*
 Laboratório de Práticas
 Matéria : Bases de Programação
-Data : 29.11.25
+Data : 29.10.25
 
 Programa 1: Usuário digita 5 letras, uma de cada vez.
 No fim do processamento, imprime a palavra formada.

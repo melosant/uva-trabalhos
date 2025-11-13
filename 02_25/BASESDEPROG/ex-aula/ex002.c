@@ -1,7 +1,7 @@
 /*
 Laboratório de Práticas
 Matéria : Bases de Programação
-Data : 29.11.25
+Data : 29.10.25
 
 Programa 2: Usuário entra com dados para calcular a área do trapézio.
 No fim, imprime o resultado
