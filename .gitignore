@@ -3,30 +3,10 @@
 estatistica/
 01_25/Interfaces de Sistemas - UVA/
 lfa/
-02_25/PLP/tai_1/execução-tai1.mp4
-02_25/PLP/tai_1/TAI-1.pdf
-02_25/PLP/tai_2/Execução TAI-2.mp4
-02_25/PLP/tai_2/TAI-2-relatorio-Nathã_de_Melo_Santos.pdf
-02_25/PLP/tai_3/video.mp4
-02_25/PLP/tai_3/TAI-3-relatorio-Nathã_de_Melo_Santos.pdf
+*.mp4
+*.pdf
+*.exe
 .vscode
 
 # Temporarios
 01_25/Desenvolvimento Web/
-
-# Executáveis Bases de Prog 
-02_25/BASESDEPROG/ex-aula/ex001.exe
-02_25/BASESDEPROG/ex-aula/ex002.exe
-02_25/BASESDEPROG/ex-aula/ex003.exe
-02_25/BASESDEPROG/ex-aula/ex004.exe
-02_25/BASESDEPROG/ex-aula/ex005.exe
-02_25/BASESDEPROG/ex-aula/ex006.exe
-02_25/BASESDEPROG/ex-aula/ex007.exe
-02_25/BASESDEPROG/ex-aula/ex008.exe
-02_25/BASESDEPROG/ex-aula/ex009.exe
-02_25/BASESDEPROG/ex-aula/ex010.exe
-02_25/BASESDEPROG/ex-aula/ex011.exe
-02_25/BASESDEPROG/ex-aula/ex012.exe
-02_25/BASESDEPROG/ex-aula/ex013.exe
-02_25/BASESDEPROG/ex-aula/ex014.exe
-02_25/BASESDEPROG/ex-aula/ex015.exe
