@@ -8,6 +8,7 @@ lfa/
 *.exe
 .vscode
 /tag-bases-uva
+/a4
 
 # Temporarios
 01_25/Desenvolvimento Web/
