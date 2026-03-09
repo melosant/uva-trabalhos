@@ -16,6 +16,6 @@ int main(){
         printf("Deseja continuar (S/N) : ");
         scanf("%s", &control);
     }
-    
+        
     return 0;
-    }
+}
